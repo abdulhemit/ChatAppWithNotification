@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282499093683",
+    "project_id": "chatappwithnotification-b9594",
+    "storage_bucket": "chatappwithnotification-b9594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282499093683:android:2f0dacc19459aec6704cc6",
+        "android_client_info": {
+          "package_name": "com.example.chatappwithnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282499093683-6h2k37u9d7mg8jedakpa4526cbf24jkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBan_EhK3eoCatLF-JAEboNWDCrSzBrEqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282499093683-6h2k37u9d7mg8jedakpa4526cbf24jkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
